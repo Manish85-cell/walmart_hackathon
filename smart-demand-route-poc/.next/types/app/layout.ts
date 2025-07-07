@@ -1,4 +1,4 @@
-// File: C:\Users\mupre\Desktop\MY_PC\WORK\hacks\2025_07_07_25_walmart_hackathon\smart-demand-route-poc\src\app\layout.tsx
+// File: C:\Users\mupre\Desktop\MY_PC\WORK\hacks\2025_07_07_25_walmart_hackathon\walmart_hackathon\smart-demand-route-poc\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

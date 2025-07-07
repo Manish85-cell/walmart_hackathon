@@ -6,7 +6,8 @@ import L from "leaflet";
 import { useEffect } from "react";
 
 // Fix for default marker icons (important!)
-delete (L.Icon.Default.prototype as any)._getIconUrl;
+delete L.Icon.Default.prototype._getIconUrl;
+
 
 L.Icon.Default.mergeOptions({
   iconRetinaUrl:
